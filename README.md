@@ -27,7 +27,6 @@ Aucun : l’application est **self-contained** (.NET inclus).
 
 ## Notes
 
-- Les backups sont créés dans `C:\ProgramData\AB-FiveTool\backups`.
 - Les logs dans `C:\ProgramData\AB-FiveTool\logs`.
 
 ## Confidentialité
