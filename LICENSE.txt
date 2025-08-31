@@ -1,0 +1,8 @@
+Copyright (c) 2025 AB Informatique
+Tous droits réservés.
+
+L'application AB FiveTool est distribuée uniquement en version binaire.
+Le code source n'est pas ouvert ni redistribuable.
+L'utilisation est réservée aux utilisateurs finaux.
+Toute modification, rétro-ingénierie ou redistribution du logiciel sans
+autorisation expresse est interdite.
