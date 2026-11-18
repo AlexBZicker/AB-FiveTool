@@ -17,10 +17,11 @@ Rendez-vous dans **[Releases](../../releases/latest)** et choisissez :
 
 | Fichier | Usage |
 |---|---|
-| `AB-FiveTool-Setup-<version>.exe` | **Installateur** (recommandé), x64, sans droits administrateur |
-| `AB FiveTool-<version>-win-x64.zip` | Version portable, Windows 64 bits |
-| `AB FiveTool-<version>-win-x86.zip` | Version portable, Windows 32 bits |
+| `AB-FiveTool-Setup-<version>.exe` | **Installateur** (recommandé), sans droits administrateur |
+| `AB-FiveTool-Portable-<version>-win-x64.zip` | Version portable, sans installation |
 | `SHA256SUMS.txt` | Sommes de contrôle pour vérifier les fichiers |
+
+Windows 64 bits requis (comme GTA V et FiveM).
 
 ## Installation
 
@@ -33,7 +34,22 @@ Rendez-vous dans **[Releases](../../releases/latest)** et choisissez :
 
 Au premier lancement, vérifiez dans l'onglet **Paramètres** les chemins de **FiveM.app** et de **GTA V**.
 
-> Si Windows SmartScreen avertit, cliquez sur *Informations complémentaires* puis *Exécuter quand même*.
+## Windows affiche « Windows a protégé votre ordinateur » ?
+
+Au **premier téléchargement**, Windows SmartScreen peut bloquer le lancement et afficher « Éditeur inconnu ». AB FiveTool est un petit logiciel gratuit qui n'est pas signé par un certificat de signature de code payant : Windows se méfie donc de tout fichier qu'il ne connaît pas encore.
+
+1. Cliquez sur **Informations complémentaires**.
+2. Cliquez sur **Exécuter quand même**.
+
+![Avertissement SmartScreen : bouton « Exécuter quand même »](docs/smartscreen.png)
+
+Pour vérifier que votre fichier n'a pas été altéré, comparez sa somme SHA256 avec `SHA256SUMS.txt` (dans la release) :
+
+```powershell
+Get-FileHash .\AB-FiveTool-Setup-<version>.exe -Algorithm SHA256
+```
+
+Les mises à jour faites depuis l'application ne devraient pas afficher cet avertissement.
 
 ## Mises à jour
 
