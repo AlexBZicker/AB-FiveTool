@@ -1,8 +1,55 @@
-Copyright (c) 2025 AB Informatique
-Tous droits réservés.
+LICENCE D'UTILISATION - AB FiveTool
 
-L'application AB FiveTool est distribuée uniquement en version binaire.
-Le code source n'est pas ouvert ni redistribuable.
-L'utilisation est réservée aux utilisateurs finaux.
-Toute modification, rétro-ingénierie ou redistribution du logiciel sans
-autorisation expresse est interdite.
+Copyright (c) 2024-2026 AlexBZicker. Tous droits réservés.
+https://alexbzicker.fr/
+
+AB FiveTool (le « Logiciel ») est un logiciel propriétaire. Il n'est pas
+distribué sous licence libre ou open source.
+
+1. DROIT D'UTILISATION
+   L'auteur vous accorde, à titre gratuit, un droit personnel, non exclusif et
+   non transférable d'installer et d'utiliser le Logiciel, dans sa version
+   compilée distribuée officiellement dans les Releases du dépôt
+   https://github.com/AlexBZicker/AB-FiveTool.
+
+2. CE QUI EST INTERDIT
+   Sans autorisation écrite préalable de l'auteur, il est interdit de :
+   - partager, publier, héberger ou redistribuer le Logiciel, en tout ou
+     partie, sur quelque support ou site que ce soit ;
+   - vendre, louer, prêter, sous-licencier le Logiciel, ou en tirer un profit
+     direct ou indirect ;
+   - modifier le Logiciel, créer des œuvres dérivées, ou le reconditionner ;
+   - décompiler, désassembler ou chercher à obtenir le code source, sauf dans
+     la mesure où la loi l'autorise expressément malgré cette interdiction ;
+   - retirer ou altérer les mentions de copyright et la présente licence.
+
+3. CODE SOURCE
+   Le code source n'est pas concédé sous licence. Sa consultation éventuelle ne
+   confère aucun droit d'utilisation, de copie, de modification ou de
+   redistribution.
+
+4. MARQUES
+   AB FiveTool n'est ni affilié, ni approuvé, ni sponsorisé par Rockstar Games,
+   Take-Two Interactive ou Cfx.re. « Grand Theft Auto », « GTA V » et « FiveM »
+   sont des marques de leurs propriétaires respectifs. Les icônes de ces jeux
+   affichées dans l'application sont lues dans les fichiers installés sur
+   l'ordinateur de l'utilisateur ; elles ne sont pas distribuées avec le
+   Logiciel.
+
+5. ABSENCE DE GARANTIE
+   Le Logiciel est fourni « en l'état », sans garantie d'aucune sorte. Il agit
+   sur des fichiers de votre ordinateur (suppression de caches et de fichiers
+   de jeu) : vous l'utilisez sous votre seule responsabilité, et il vous
+   appartient de sauvegarder ce qui vous importe.
+
+6. LIMITATION DE RESPONSABILITÉ
+   Dans la limite permise par la loi, l'auteur n'est responsable d'aucun
+   dommage direct ou indirect, perte de données, de compte ou de partie, lié à
+   l'utilisation ou à l'impossibilité d'utiliser le Logiciel.
+
+7. RÉSILIATION
+   Cette licence prend fin automatiquement en cas de non-respect de l'une de
+   ses conditions. Vous devez alors cesser d'utiliser le Logiciel et en
+   supprimer toutes les copies.
+
+Pour toute autorisation particulière : https://alexbzicker.fr/
